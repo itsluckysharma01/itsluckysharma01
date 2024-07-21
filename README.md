@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LUCKY SHARMA @itsluckysharma01
-- 👀 I’m interested in COMPUTER SCIENCE.
+- 👀 I’m interested in Ethical Hacking And Cybersecurity.
 - 🌱 I’m currently learning Python And front End Development.
 - 💞️ I’m looking to collaborate on Front End Development.
 - 📫 How to reach me panditluckysharma42646@gmail.com
