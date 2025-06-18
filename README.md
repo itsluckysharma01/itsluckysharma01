@@ -21,10 +21,7 @@
 - ⚡ Fun fact **“Chaii ☕ + Code 💻 = Happiness 😄”**
 
 # 💫 About Me:
-Data Curation<br>Data Science and Analysis<br>Data Science based Projects<br>Python Modules<br>Front End Development<br>
-
-# 💫 About Me:
-Data Curation<br>Data Science and Analysis<br>Data Science based Projects<br>Python Modules<br>Front End Development<br>
+"Aspiring Front-End Developer | Skilled in Java, JavaScript, HTML/CSS, Python | Ethical Hacking & Deep Learning Enthusiast | GitHub Contributor | Building Real-World Projects with Clean Code & UI Precision"
 
 
 ## 🌐 Socials:
@@ -53,4 +50,3 @@ Data Curation<br>Data Science and Analysis<br>Data Science based Projects<br>Pyt
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsluckysharma01) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
