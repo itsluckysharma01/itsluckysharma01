@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Curation**
 
-- 🌱 I’m currently learning **Python Modules**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Data Science and Analysis**
 
