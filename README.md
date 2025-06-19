@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **panditluckysharma9977@gmail.com**
 
-- ⚡ Fun fact **“Chaii ☕ + Code 💻 = Happiness 😄”**
+- ⚡ **“Chaii ☕ + Code 💻 = Happiness 😄”**
 
 # 💫 About Me:
 "Aspiring Front-End Developer | Skilled in Java, JavaScript, HTML/CSS, Python | Ethical Hacking & Deep Learning Enthusiast | GitHub Contributor | Building Real-World Projects with Clean Code & UI Precision"
