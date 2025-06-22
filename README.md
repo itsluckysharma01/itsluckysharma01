@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Data Science based Projects**
 
-- 💬 Ask me about **Front End**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **panditluckysharma9977@gmail.com**
 
