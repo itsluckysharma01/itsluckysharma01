@@ -51,6 +51,9 @@
 ### 🐍 Contibution Kill Snake
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
+  <img src="https://raw.githubusercontent.com/arpan0408/arpan0408/output/snake.svg" alt="Snake animation" />
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsluckysharma01) 
 
