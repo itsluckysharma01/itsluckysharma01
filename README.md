@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **panditluckysharma9977@gmail.com**
+- 📫 How to reach me **panditluckysharma42646@gmail.com**
 
 - ⚡ **“Chaii ☕ + Code 💻 = Happiness 😄”**
 
