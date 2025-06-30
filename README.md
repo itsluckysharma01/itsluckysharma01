@@ -51,13 +51,6 @@
 ### 🐍 Contibution Kill Snake
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsluckysharma01/itsluckysharma01/output/snake.svg" alt="Snake animation" />
-
-###
 
 
   ## 💰 You can help me by Donating
