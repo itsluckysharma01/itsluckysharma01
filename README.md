@@ -7,7 +7,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Data Curation**
+- 🔭 I’m currently working on **Data Curation by Python**
 
 - 🌱 I’m currently learning **Python**
 
