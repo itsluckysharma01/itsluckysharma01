@@ -7,9 +7,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Data Curation using Python**
+- 🔭 I’m currently working on **Python Data Analysis**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **POWER BI**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
