@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Lucky Sharma</h1>
 <h3 align="center">A passionate Data Science and Analytics</h3>
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <h3 align="center">| Python | Aspiring Front-End Developer | Skilled in Java, JavaScript, HTML/CSS, Python | Ethical Hacking & Deep Learning Enthusiast | GitHub Contributor |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsluckysharma01&label=Profile%20views&color=0e75b6&style=flat" alt="itsluckysharma01" /> </p>
@@ -37,10 +42,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsluckysharma01&limit=5&theme=dark&combine_all_yearly_contributions=true)
