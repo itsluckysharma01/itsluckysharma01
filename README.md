@@ -6,7 +6,7 @@
 
 # 🚀 Lucky Sharma's Portfolio Website
 
-### ✨ A Modern React.js Portfolio showcasing my journey as a Developer and as a Analyst. ✨
+### ✨✨ A Modern React.js Portfolio showcasing my journey as a Developer and as a Analyst. ✨✨
 
 ### 🌐 **[🔥 LIVE DEMO 🔥](https://portfolio-website-pearl-zeta.vercel.app/)**
 
