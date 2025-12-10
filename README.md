@@ -22,15 +22,15 @@ _Click above to explore my portfolio!_
 
 - 🔭 I’m currently working on **Python Machine Learning**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 🤝 I’m looking for help with **Data Science based Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **panditluckysharma42646@gmail.com**
+- 📫 How to reach me **itsluckysharma001@gmail.com**
 
 - ⚡ **“Chaii ☕ + Code 💻 = Happiness 😄”**
 
