@@ -20,9 +20,9 @@ _Click above to explore my portfolio!_
 
 ![](https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Python Machine Learning**
+- 🔭 I’m currently working at **WORK BASE LEARNING ON CDAC MOHALI**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **REINFORCEMENT LEARNING**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
