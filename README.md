@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lucky Sharma</h1>
-<h3 align="center">A passionate Data Science and Analytics</h3>
+<h3 align="center">A passionate Data Analytics and Machine Learning Engineer</h3>
 
 <div align="center">
 
