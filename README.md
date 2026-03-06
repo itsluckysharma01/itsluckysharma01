@@ -33,7 +33,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -137,7 +137,7 @@ quote: "Chai ☕ + Code 💻 = Happiness 😄"
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsluckysharma01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=itsluckysharma01&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsluckysharma01&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsluckysharma01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 
@@ -159,7 +159,7 @@ quote: "Chai ☕ + Code 💻 = Happiness 😄"
 
 ## 🔝 Top Contributed Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=itsluckysharma01&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=itsluckysharma01&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 </div>
 
@@ -180,9 +180,9 @@ quote: "Chai ☕ + Code 💻 = Happiness 😄"
 ## 🐍 Watch My Contribution Snake Eat My Contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsluckysharma01/itsluckysharma01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsluckysharma01/itsluckysharma01/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itsluckysharma01/itsluckysharma01/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -204,6 +204,8 @@ quote: "Chai ☕ + Code 💻 = Happiness 😄"
 ### 👀 Profile Visits
 
 <img src="https://visitcount.itsvg.in/api?id=itsluckysharma01&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count" />
+
+<img src="https://komarev.com/ghpvc/?username=itsluckysharma01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 
 </div>
 
