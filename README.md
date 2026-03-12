@@ -203,7 +203,6 @@ quote: "Chai ☕ + Code 💻 = Happiness 😄"
   
 ### 👀 Profile Visits
 
-<img src="https://visitcount.itsvg.in/api?id=itsluckysharma01&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count" />
 
 <img src="https://komarev.com/ghpvc/?username=itsluckysharma01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 
