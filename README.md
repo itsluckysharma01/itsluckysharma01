@@ -16,7 +16,7 @@
 <div align="center">
   
 ### 🚀 **[🌟 EXPLORE MY PORTFOLIO 🌟](https://portfolio-website-pearl-zeta.vercel.app/)**
-*A Modern React.js Portfolio showcasing my journey as a Developer & Analyst*
+*A Modern React.js Portfolio showcasing my journey as a Developer & Analyst and Machine Learning Engineer*
 
 </div>
 
