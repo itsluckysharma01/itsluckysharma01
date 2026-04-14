@@ -4,6 +4,7 @@
 <br/>
 
 <div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/🤖%20Data%20Analytics%20%26%20ML%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Data Analytics & ML Engineer"/>
   <br/>
   <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20Python-a855f7?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer"/>
