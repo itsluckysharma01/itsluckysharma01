@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lucky%20Sharma&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Data%20Analytics%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </div>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🤖%20Data%20Analytics%20%26%20ML%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Data Analytics & ML Engineer"/>
