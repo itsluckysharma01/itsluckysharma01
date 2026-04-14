@@ -3,7 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=🤖+Data+Analytics+%26+ML+Engineer;💻+Full+Stack+Developer+(React+%7C+Node+%7C+Python);🧠+Deep+Learning+%26+Reinforcement+Learning;🔐+Ethical+Hacking+Explorer;🌟+Open+Source+Contributor+%7C+CDAC+MOHALI" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/🤖%20Data%20Analytics%20%26%20ML%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Data Analytics & ML Engineer"/>
+  <br/>
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20Python-a855f7?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🧠%20Deep%20Learning%20%26%20Reinforcement%20Learning-FF4F4F?style=for-the-badge&labelColor=0D1117" alt="Deep Learning & RL"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🔐%20Ethical%20Hacking%20Explorer-FFD700?style=for-the-badge&labelColor=0D1117" alt="Ethical Hacking"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🌟%20Open%20Source%20Contributor%20%7C%20CDAC%20MOHALI-00C853?style=for-the-badge&labelColor=0D1117" alt="Open Source Contributor"/>
 </div>
 
 <br/>
@@ -41,7 +49,19 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" alt="trophies"/>
+  <img src="https://img.shields.io/badge/🏆%20Multi--Language%20Coder-FFD700?style=for-the-badge&labelColor=0D1117" alt="Multi-Language Coder"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌟%20Open%20Source%20Contributor-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Open Source Contributor"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤖%20ML%20%26%20AI%20Engineer-a855f7?style=for-the-badge&labelColor=0D1117" alt="ML & AI Engineer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-FF4F4F?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer"/>
+  <br/><br/>
+  <img src="https://img.shields.io/github/stars/itsluckysharma01?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117&label=Total%20Stars" alt="Total Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/itsluckysharma01?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Followers" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯%20CDAC%20Mohali-Work%20Based%20Learning-00C853?style=for-the-badge&labelColor=0D1117" alt="CDAC Mohali"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -183,7 +203,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsluckysharma01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsluckysharma01&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=a855f7&fire=FF4F4F&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=itsluckysharma01&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=a855f7&fire=FF4F4F&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -198,7 +218,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsluckysharma01&bg_color=0D1117&color=00D9FF&line=a855f7&point=ffffff&area=true&hide_border=true&area_color=00D9FF" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsluckysharma01&bg_color=0D1117&color=00D9FF&line=a855f7&point=ffffff&area=true&hide_border=true&area_color=00D9FF&custom_title=Lucky%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -208,7 +228,15 @@
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=itsluckysharma01&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+
+| 🏅 Rank | 📂 Repository | 🌟 Role | 🔧 Tech Stack |
+|:---:|---|---|---|
+| 🥇 | [**itsluckysharma01**](https://github.com/itsluckysharma01/itsluckysharma01) | Owner & Maintainer | Markdown, GitHub Actions |
+| 🥈 | [**portfolio-website**](https://github.com/itsluckysharma01/portfolio-website) | Owner & Developer | React, Tailwind CSS, Vercel |
+| 🥉 | [**ML Projects**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Researcher | Python, PyTorch, TensorFlow |
+| 4️⃣ | [**Security Tools**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Builder | Python, Networking |
+| 5️⃣ | [**Data Analytics**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Analyst | Pandas, NumPy, Streamlit |
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -232,7 +260,11 @@
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote"/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
