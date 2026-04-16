@@ -45,7 +45,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
+## ⚡ Fun Animations
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="45%" alt="Coding Animation"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="Tech Animation"/>
+</div>
+
+<br/>
+
+<div align="center">
+---
+  
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -270,18 +282,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
-
-## ⚡ Fun Animations
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="45%" alt="Coding Animation"/>
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="Tech Animation"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 🎯 Current Focus
 
