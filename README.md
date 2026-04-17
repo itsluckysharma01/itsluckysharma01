@@ -179,6 +179,26 @@
 
 ---
 
+### 🎯 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   📚  Reinforcement Learning    ████████████░░░░   75%     │
+│   🧠  Deep Learning             ███████████████░   90%     │
+│   💻  Full Stack Dev            ████████████████   95%     │
+│   🔐  Ethical Hacking           ████████░░░░░░░░   55%     │
+│   📊  Data Analytics            ███████████████░   90%     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -276,26 +296,6 @@
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
-
-### 🎯 Current Focus
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   📚  Reinforcement Learning    ████████████░░░░   75%     │
-│   🧠  Deep Learning             ███████████████░   90%     │
-│   💻  Full Stack Dev            ████████████████   95%     │
-│   🔐  Ethical Hacking           ████████░░░░░░░░   55%     │
-│   📊  Data Analytics            ███████████████░   90%     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
