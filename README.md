@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lucky%20Sharma&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Data%20Analytics%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 <br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🤖%20Data%20Analytics%20%26%20ML%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Data Analytics & ML Engineer"/>
@@ -45,6 +47,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
+
 ## ⚡ Fun Animations
 
 <div align="center">
@@ -55,9 +58,8 @@
 
 <br/>
 
-<div align="center">
----
-  
+## <div align="center">
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -87,14 +89,14 @@
 <br/>
 
 ```yaml
-👤  name       : Lucky Sharma
-🏢  currently  : CDAC MOHALI  (Work-Based Learning)
-🎯  role       : Data Analytics & ML Engineer | Full Stack Dev
-🌱  learning   : Reinforcement Learning & LLM Fine-tuning
-🔭  building   : Real-world ML + Web projects with clean code
-💬  ask me     : Python • ML • React • Node.js • Ethical Hacking
-📫  email      : itsluckysharma001@gmail.com
-⚡  fun fact   : "Chai ☕ + Code 💻 = Pure Happiness 😄"
+👤  name: Lucky Sharma
+🏢  currently: CDAC MOHALI  (Work-Based Learning)
+🎯  role: Data Analytics & ML Engineer | Full Stack Dev
+🌱  learning: Reinforcement Learning & LLM Fine-tuning
+🔭  building: Real-world ML + Web projects with clean code
+💬  ask me: Python • ML • React • Node.js • Ethical Hacking
+📫  email: itsluckysharma001@gmail.com
+⚡  fun fact: "Chai ☕ + Code 💻 = Pure Happiness 😄"
 ```
 
 <br/>
@@ -112,6 +114,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
+
 ### 🎯 Current Focus
 
 ```
@@ -167,18 +170,23 @@
 <div align="center">
 
 ### 🔤 Languages
+
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c&theme=dark" alt="Languages"/>
 
 ### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
 
 ### ⚙️ Backend & DevOps
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,npm,apache,docker,linux&theme=dark" alt="Backend"/>
 
 ### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases"/>
 
 ### 🤖 Data Science & ML
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="ML"/>
 
 <br/>
@@ -190,6 +198,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🛠️ Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools"/>
 
 </div>
@@ -197,7 +206,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
-
 
 ## 🚀 Featured Projects
 
@@ -217,12 +225,12 @@
 
 <div align="center">
 
-| 🏗️ Project | 🔧 Stack | 📄 Description |
-|---|---|---|
-| 🌐 **Portfolio Website** | React, Tailwind, Vercel | Modern animated developer portfolio |
-| 🤖 **ML Dashboard** | Python, Pandas, Streamlit | Data analytics & visualization tool |
-| 🔐 **Security Scanner** | Python, Ethical Hacking | Network & vulnerability scanner |
-| 📊 **Deep Learning Suite** | PyTorch, TensorFlow | Custom CNN/RNN model implementations |
+| 🏗️ Project                 | 🔧 Stack                  | 📄 Description                       |
+| -------------------------- | ------------------------- | ------------------------------------ |
+| 🌐 **Portfolio Website**   | React, Tailwind, Vercel   | Modern animated developer portfolio  |
+| 🤖 **ML Dashboard**        | Python, Pandas, Streamlit | Data analytics & visualization tool  |
+| 🔐 **Security Scanner**    | Python, Ethical Hacking   | Network & vulnerability scanner      |
+| 📊 **Deep Learning Suite** | PyTorch, TensorFlow       | Custom CNN/RNN model implementations |
 
 </div>
 
@@ -261,13 +269,13 @@
 
 <div align="center">
 
-| 🏅 Rank | 📂 Repository | 🌟 Role | 🔧 Tech Stack |
-|:---:|---|---|---|
-| 🥇 | [**itsluckysharma01**](https://github.com/itsluckysharma01/itsluckysharma01) | Owner & Maintainer | Markdown, GitHub Actions |
-| 🥈 | [**portfolio-website**](https://github.com/itsluckysharma01/portfolio-website) | Owner & Developer | React, Tailwind CSS, Vercel |
-| 🥉 | [**ML Projects**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Researcher | Python, PyTorch, TensorFlow |
-| 4️⃣ | [**Security Tools**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Builder | Python, Networking |
-| 5️⃣ | [**Data Analytics**](https://github.com/itsluckysharma01?tab=repositories) | Owner & Analyst | Pandas, NumPy, Streamlit |
+| 🏅 Rank | 📂 Repository                                                                  | 🌟 Role            | 🔧 Tech Stack               |
+| :-----: | ------------------------------------------------------------------------------ | ------------------ | --------------------------- |
+|   🥇    | [**itsluckysharma01**](https://github.com/itsluckysharma01/itsluckysharma01)   | Owner & Maintainer | Markdown, GitHub Actions    |
+|   🥈    | [**portfolio-website**](https://github.com/itsluckysharma01/portfolio-website) | Owner & Developer  | React, Tailwind CSS, Vercel |
+|   🥉    | [**ML Projects**](https://github.com/itsluckysharma01?tab=repositories)        | Owner & Researcher | Python, PyTorch, TensorFlow |
+|   4️⃣    | [**Security Tools**](https://github.com/itsluckysharma01?tab=repositories)     | Owner & Builder    | Python, Networking          |
+|   5️⃣    | [**Data Analytics**](https://github.com/itsluckysharma01?tab=repositories)     | Owner & Analyst    | Pandas, NumPy, Streamlit    |
 
 </div>
 
@@ -293,9 +301,9 @@
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> _"First, solve the problem. Then, write the code."_ — John Johnson
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ — Martin Fowler
 
 </div>
 
@@ -313,7 +321,7 @@
 
 <br/><br/>
 
-*If you find my projects helpful, a ⭐ on any repo means the world to me!*
+_If you find my projects helpful, a ⭐ on any repo means the world to me!_
 
 <br/>
 
