@@ -313,6 +313,9 @@
 
 ## ☕ Support My Work
 
+@itsluckysharma01
+@Lucky Sharma
+
 <div align="center">
 
 <a href="https://buymeacoffee.com/itsluckysharma01" target="_blank">
