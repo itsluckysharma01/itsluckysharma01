@@ -48,6 +48,69 @@
 
 ---
 
+<!-- ============================================================ -->
+<!-- ✨ NEW: ANIMATED PROFILE CARD (inserted after banner) ✨ -->
+<!-- ============================================================ -->
+
+## 🪪 Profile Card
+
+<div align="center">
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=100&lines=Hi+there%2C+I'm+Lucky+%F0%9F%91%8B;AI%2FML+Engineer+%40+CDAC+Mohali;Full+Stack+%7C+GenAI+%7C+RL+Builder;Turning+Ideas+%E2%86%92+Intelligent+Systems" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/238200622-b1f5a2b4-5b46-4d6c-a8fb-59f3ae7b96f8.gif" width="100%" alt="Animated coding banner"/>
+
+</td>
+<td width="60%" valign="top">
+
+<div align="center">
+
+### 🇮🇳 Lucky Sharma
+**AI/ML Intern @ CDAC Mohali** · Applied AI/ML Engineer
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=420&lines=RL+%2B+LLM+Fine-tuning+Enthusiast;91%25+Acc+Skin+Disease+Classifier+%F0%9F%A9%BA;98%25+Acc+YOLOv8+Surveillance+%F0%9F%93%B9;Published+Researcher+%40+IJEECE+%F0%9F%93%84" alt="rotating info"/>
+
+<br/>
+
+| 🎯 | Detail |
+|---|---|
+| 🎓 | B.Tech CSE @ Govt. College Dharamshala · CGPA 8.01 |
+| 🏢 | Work-Based Learning Intern, CDAC Mohali |
+| 🧪 | RL, Deep Learning, GenAI, LLM Fine-tuning |
+| 🌍 | Based in India \| Open to Applied AI/ML roles |
+| 📫 | itsluckysharma001@gmail.com |
+
+<br/>
+
+<img src="https://img.shields.io/badge/🟢%20Currently-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsluckysharma01&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies"/>
+
+<br/><br/>
+
+<!-- Animated skill orbit -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,docker&theme=dark&perline=6" alt="orbit skills"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
 ## ⚡ Fun Animations
 
 <div align="center">
@@ -227,10 +290,10 @@
 
 | 🏗️ Project                 | 🔧 Stack                  | 📄 Description                       |
 | -------------------------- | ------------------------- | ------------------------------------ |
+| 🩺 **AI Clinical Skin Disease Detection** | Python, EfficientNet, Flask, Docker | 30-class classifier, 91% train acc, deployed on Hugging Face Spaces |
+| 🕵️ **Museum Heist (RL)** | Python, POMDP, BFS, Pygame | Pursuit-evasion AI with belief modeling & live heatmaps |
+| 📹 **NETRA Surveillance Platform** | Python, YOLOv8, OpenCV, Flask | Real-time threat detection at 98% accuracy |
 | 🌐 **Portfolio Website**   | React, Tailwind, Vercel   | Modern animated developer portfolio  |
-| 🤖 **ML Dashboard**        | Python, Pandas, Streamlit | Data analytics & visualization tool  |
-| 🔐 **Security Scanner**    | Python, Ethical Hacking   | Network & vulnerability scanner      |
-| 📊 **Deep Learning Suite** | PyTorch, TensorFlow       | Custom CNN/RNN model implementations |
 
 </div>
 
