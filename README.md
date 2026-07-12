@@ -170,7 +170,7 @@
 - 🌱 Mastering **Reinforcement Learning** and **Deep Learning architectures**
 - 🤝 Open to collaborate on **ML Research & Data Science projects**
 - 🛡️ Exploring **Ethical Hacking & Cybersecurity**
-- 🚀 Building a **Modern React Portfolio** — [check it out!](https://portfolio-website-pearl-zeta.vercel.app/)
+- 🚀 Building a **Modern React Portfolio** — [check it out!](https://itsluckysharma01.in/)
 
 <br/>
 
