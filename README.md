@@ -80,7 +80,7 @@
 
 | 🎯 | Detail |
 |---|---|
-| 🎓 | B.Tech CSE @ Govt. College Dharamshala · CGPA 8.01 |
+| 🎓 | B.Tech CSE @ Govt. College Dharamshala · CGPA 8.08 |
 | 🏢 | Work-Based Learning Intern, CDAC Mohali |
 | 🧪 | RL, Deep Learning, GenAI, LLM Fine-tuning |
 | 🌍 | Based in India \| Open to Applied AI/ML roles |
