@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="lsh-hero-title lsh-hero-desc">
+  <title id="lsh-hero-title">Lucky Sharma — Research Scholar, IIT Ropar</title>
+  <desc id="lsh-hero-desc">Banner for Lucky Sharma, research scholar at IIT Ropar working on domain adaptation and transfer learning. A source and a target point cloud are linked by flowing transport paths inside slow orbital rings, over a fine technical grid. Static version without motion.</desc>
+  <defs>
+    <linearGradient id="lsh-hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.58" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#241019"/>
+    </linearGradient>
+    <radialGradient id="lsh-hero-glow" cx="0.76" cy="0.46" r="0.5">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#451126" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10070C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lsh-hero-glow-low" cx="0.08" cy="1.05" r="0.55">
+      <stop offset="0" stop-color="#451126" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#10070C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="lsh-hero-grid-minor" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#C77B9B" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <pattern id="lsh-hero-grid-major" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M120 0H0V120" fill="none" stroke="#C77B9B" stroke-opacity="0.15" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="lsh-hero-grid-fade" cx="0.68" cy="0.5" r="0.62">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.7" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="lsh-hero-grid-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="420">
+      <rect width="1200" height="420" fill="url(#lsh-hero-grid-fade)"/>
+    </mask>
+    <linearGradient id="lsh-hero-name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3"/>
+      <stop offset="0.55" stop-color="#F8F0F3">
+      </stop>
+      <stop offset="1" stop-color="#E5B5C7"/>
+    </linearGradient>
+    <linearGradient id="lsh-hero-underline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#C77B9B"/>
+      <stop offset="0.5" stop-color="#F8F0F3"/>
+      <stop offset="0.82" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lsh-hero-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F8F0F3" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lsh-hero-flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#E5B5C7"/>
+    </linearGradient>
+    <filter id="lsh-hero-bloom" x="-10%" y="-400%" width="120%" height="900%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <filter id="lsh-hero-node-glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="lsh-hero-frame-clip">
+      <rect x="0" y="0" width="1200" height="420" rx="22"/>
+    </clipPath>
+    <path id="lsh-hero-orbit-a" d="M -250 0 A 250 82 0 1 0 250 0 A 250 82 0 1 0 -250 0 Z"/>
+    <path id="lsh-hero-orbit-b" d="M -172 0 A 172 136 0 1 1 172 0 A 172 136 0 1 1 -172 0 Z"/>
+  </defs>
+  <g clip-path="url(#lsh-hero-frame-clip)">
+    <!-- atmosphere -->
+    <rect width="1200" height="420" fill="url(#lsh-hero-bg)"/>
+    <rect width="1200" height="420" fill="url(#lsh-hero-glow-low)"/>
+    <rect width="1200" height="420" fill="url(#lsh-hero-glow)"/>
+    <!-- technical grid -->
+    <g mask="url(#lsh-hero-grid-mask)">
+      <rect width="1200" height="420" fill="url(#lsh-hero-grid-minor)"/>
+      <rect width="1200" height="420" fill="url(#lsh-hero-grid-major)"/>
+    </g>
+    <!-- orbital geometry -->
+    <g transform="translate(915 205)">
+      <g transform="rotate(-12)">
+        <use href="#lsh-hero-orbit-a" fill="none" stroke="#C77B9B" stroke-opacity="0.32" stroke-width="1"/>
+        <circle r="3.2" fill="#E5B5C7" filter="url(#lsh-hero-node-glow)" transform="translate(200 -49)"/>
+      </g>
+      <g transform="rotate(18)">
+        <use href="#lsh-hero-orbit-b" fill="none" stroke="#C77B9B" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="2 7"/>
+        <circle r="2.4" fill="#C77B9B" transform="translate(132 -87)"/>
+      </g>
+      <g>
+        <circle r="96" fill="none" stroke="#E5B5C7" stroke-opacity="0.12" stroke-width="1"/>
+        <circle r="96" fill="none" stroke="#E5B5C7" stroke-opacity="0.45" stroke-width="1" stroke-dasharray="40 563">
+        </circle>
+      </g>
+      <circle r="4" fill="#F8F0F3" filter="url(#lsh-hero-node-glow)"/>
+      <circle r="9" fill="none" stroke="#F8F0F3" stroke-opacity="0.35">
+      </circle>
+    </g>
+    <!-- transport paths: source domain → target domain -->
+    <g fill="none" stroke="url(#lsh-hero-flow)" stroke-linecap="round">
+      <path d="M 792 172 C 850 96, 960 104, 1036 236" stroke-opacity="0.55" stroke-width="1.2" stroke-dasharray="3 9">
+      </path>
+      <path d="M 778 214 C 860 182, 950 290, 1052 268" stroke-opacity="0.45" stroke-width="1.2" stroke-dasharray="3 9">
+      </path>
+      <path d="M 812 236 C 880 312, 980 316, 1018 284" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="3 9">
+      </path>
+    </g>
+    <!-- source cloud -->
+    <g fill="#C77B9B">
+      <circle cx="792" cy="172" r="3.2"/><circle cx="778" cy="214" r="3.2"/><circle cx="812" cy="236" r="3.2"/>
+      <circle cx="806" cy="196" r="2.2" fill-opacity="0.7"/><circle cx="768" cy="190" r="2" fill-opacity="0.6"/>
+      <circle cx="822" cy="208" r="1.8" fill-opacity="0.6"/><circle cx="790" cy="248" r="2" fill-opacity="0.55"/>
+      <circle cx="760" cy="230" r="1.6" fill-opacity="0.5"/>
+    </g>
+    <!-- target cloud -->
+    <g fill="#F8F0F3">
+      <circle cx="1036" cy="236" r="3.2"/><circle cx="1052" cy="268" r="3.2"/><circle cx="1018" cy="284" r="3.2"/>
+      <circle cx="1060" cy="244" r="2" fill-opacity="0.65"/><circle cx="1030" cy="260" r="2.2" fill-opacity="0.7"/>
+      <circle cx="1074" cy="276" r="1.6" fill-opacity="0.5"/><circle cx="1040" cy="300" r="1.8" fill-opacity="0.55"/>
+      <circle cx="1008" cy="256" r="1.6" fill-opacity="0.5"/>
+    </g>
+    <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2.4">
+      <text x="748" y="282" fill="#C77B9B" fill-opacity="0.85">SOURCE · D_s</text>
+      <text x="1000" y="330" fill="#E5B5C7" fill-opacity="0.85">TARGET · D_t</text>
+    </g>
+    <!-- long hairline, drawn in once -->
+    <path d="M 72 352 C 300 352, 420 332, 600 340 S 900 372, 1128 334" fill="none" stroke="#701A3D" stroke-width="1" stroke-dasharray="1200" stroke-dashoffset="0">
+    </path>
+    <!-- identity -->
+    <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace">
+      <rect x="72" y="83" width="8" height="8" fill="#C77B9B"/>
+      <text x="92" y="92" font-size="13" letter-spacing="4.2" fill="#C77B9B">RESEARCH SCHOLAR · IIT ROPAR</text>
+    </g>
+    <text x="68" y="190" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="86" font-weight="600" letter-spacing="-0.5" fill="url(#lsh-hero-name)">Lucky Sharma</text>
+    <!-- glowing underline -->
+    <g>
+      <rect x="72" y="214" width="380" height="3" rx="1.5" fill="url(#lsh-hero-underline)" filter="url(#lsh-hero-bloom)" opacity="0.8">
+      </rect>
+      <rect x="72" y="214.5" width="380" height="2" rx="1" fill="url(#lsh-hero-underline)"/>
+      <rect x="72" y="213.5" width="70" height="4" rx="2" fill="url(#lsh-hero-sheen)" opacity="0">
+      </rect>
+    </g>
+    <text x="72" y="264" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="29" font-style="italic" fill="#E5B5C7">Domain Adaptation  ·  Transfer Learning</text>
+    <text x="72" y="304" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#C77B9B" fill-opacity="0.8">min_θ  L_src(θ) + λ · D(P_s, P_t)</text>
+    <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="2" fill="#F8F0F3" fill-opacity="0.5">
+      <text x="72" y="388">GITHUB / ITSLUCKYSHARMA01</text>
+      <text x="1128" y="388" text-anchor="end">30.97° N · 76.47° E</text>
+    </g>
+    <!-- frame + corner ticks -->
+    <rect x="14.5" y="14.5" width="1171" height="391" rx="16" fill="none" stroke="#701A3D" stroke-opacity="0.7"/>
+    <g stroke="#E5B5C7" stroke-opacity="0.55" stroke-width="1.2" fill="none">
+      <path d="M 30 44 V 30 H 44"/><path d="M 1156 30 H 1170 V 44"/>
+      <path d="M 30 376 V 390 H 44"/><path d="M 1156 390 H 1170 V 376"/>
+    </g>
+  </g>
+</svg>

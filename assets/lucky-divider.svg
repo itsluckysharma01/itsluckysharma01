@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="lsh-div-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="lsh-div-glint">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="120" y="11.5" width="960" height="1" fill="url(#lsh-div-line)"/>
+  <rect x="594" y="6" width="12" height="12" transform="rotate(45 600 12)" fill="#190B12" stroke="#C77B9B" stroke-width="1"/>
+  <rect x="598" y="10" width="4" height="4" transform="rotate(45 600 12)" fill="#E5B5C7"/>
+  <ellipse cx="600" cy="12" rx="28" ry="2" fill="url(#lsh-div-glint)" opacity="0">
+    <animate attributeName="cx" values="200;1000" dur="3s" begin="0.5s;lsh-div-run.end+6s"/>
+    <animate id="lsh-div-run" attributeName="opacity" values="0;0.8;0" dur="3s" begin="0.5s;lsh-div-run.end+6s"/>
+  </ellipse>
+</svg>

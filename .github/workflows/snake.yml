@@ -1,9 +1,12 @@
-name: Generate Snake
+name: Generate profile assets
+
+# Builds the contribution snake plus the burgundy heatmap and stats cards from
+# live GitHub data, then publishes them to the `output` branch that README.md
+# reads from. Runs daily, on demand, and on every push to main.
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # 00:00 UTC daily
   workflow_dispatch:
   push:
     branches:
@@ -18,18 +21,26 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate contribution snake (burgundy)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: itsluckysharma01
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#701A3D&color_dots=#F3E6EB,#E5B5C7,#C77B9B,#701A3D,#451126
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E5B5C7&color_dots=#24111B,#451126,#701A3D,#C77B9B,#E5B5C7
+
+      - name: Generate heatmap and stats cards
+        env:
+          # The default workflow token can read public contribution data.
+          # Optionally add a read-only PAT as PROFILE_STATS_TOKEN to include
+          # private-contribution counts. Tokens are never written to output.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/profile_cards.py --user "${{ github.repository_owner }}" --out dist
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 56" width="230" height="56" role="img" aria-label="LinkedIn: itsluckysharma01">
+  <title>LinkedIn — itsluckysharma01</title>
+  <defs>
+    <linearGradient id="lsh-link-linkedin-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#2A0F1C"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="229" height="55" rx="10" fill="url(#lsh-link-linkedin-bg)" stroke="#701A3D"/>
+  <rect x="16" y="18" width="3" height="20" rx="1.5" fill="#C77B9B"/>
+  <text x="30" y="26" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2.2" fill="#C77B9B">LINKEDIN</text>
+  <text x="30" y="42" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#F8F0F3">itsluckysharma01</text>
+  <path d="M 200 32 L 210 22 M 203 22 H 210 V 29" fill="none" stroke="#E5B5C7" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

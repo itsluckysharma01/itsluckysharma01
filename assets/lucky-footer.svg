@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="lsh-foot-title">
+  <title id="lsh-foot-title">Thanks for stopping by — Lucky Sharma, IIT Ropar</title>
+  <defs>
+    <linearGradient id="lsh-foot-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="lsh-foot-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#fff"/>
+      <stop offset="0.8" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="lsh-foot-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="150">
+      <rect width="1200" height="150" fill="url(#lsh-foot-fade)"/>
+    </mask>
+    <clipPath id="lsh-foot-clip"><rect width="1200" height="150" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#lsh-foot-clip)">
+    <rect width="1200" height="150" fill="url(#lsh-foot-bg)"/>
+    <g mask="url(#lsh-foot-mask)" fill="none" stroke-linecap="round">
+      <path d="M -240 104 q 60 -26 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" stroke="#701A3D" stroke-width="1.4">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="240 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path d="M -240 112 q 60 -14 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" stroke="#C77B9B" stroke-opacity="0.45" stroke-width="1">
+        <animateTransform attributeName="transform" type="translate" from="240 0" to="0 0" dur="20s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="600" y="58" text-anchor="middle" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="26" font-style="italic" fill="#F8F0F3">Thanks for stopping by.</text>
+    <text x="600" y="86" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="3" fill="#C77B9B">LUCKY SHARMA · IIT ROPAR · ITSLUCKYSHARMA01.IN</text>
+    <rect x="14.5" y="14.5" width="1171" height="121" rx="16" fill="none" stroke="#701A3D" stroke-opacity="0.7"/>
+  </g>
+</svg>
