@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-labelledby="lsh-stats-title">
+  <title id="lsh-stats-title">GitHub statistics for itsluckysharma01</title>
+  <defs>
+    <linearGradient id="lsh-stats-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/><stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <clipPath id="lsh-stats-clip"><rect width="960" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#lsh-stats-clip)">
+    <rect width="960" height="300" fill="url(#lsh-stats-bg)"/>
+    <text x="40" y="46" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="3" fill="#C77B9B">GITHUB · UPDATED 07 NOV 2026</text>
+    <text x="40" y="78" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="26" font-style="italic" fill="#F8F0F3">At a glance</text>
+
+    <text x="40.0" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">CONTRIBUTIONS</text>
+    <text x="40.0" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">1,733</text>
+    <text x="40.0" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">last 12 months</text>
+    <rect x="172.66666666666666" y="104" width="1" height="64" fill="#701A3D" opacity="0.8"/>
+    <text x="186.66666666666666" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">CURRENT STREAK</text>
+    <text x="186.66666666666666" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">258</text>
+    <text x="186.66666666666666" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">days</text>
+    <rect x="319.3333333333333" y="104" width="1" height="64" fill="#701A3D" opacity="0.8"/>
+    <text x="333.3333333333333" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">LONGEST STREAK</text>
+    <text x="333.3333333333333" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">258</text>
+    <text x="333.3333333333333" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">days, last 12 months</text>
+    <rect x="466.0" y="104" width="1" height="64" fill="#701A3D" opacity="0.8"/>
+    <text x="480.0" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">PUBLIC REPOS</text>
+    <text x="480.0" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">95</text>
+    <text x="480.0" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">original, non-fork</text>
+    <rect x="612.6666666666666" y="104" width="1" height="64" fill="#701A3D" opacity="0.8"/>
+    <text x="626.6666666666666" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">STARS</text>
+    <text x="626.6666666666666" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">155</text>
+    <text x="626.6666666666666" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">on those repos</text>
+    <rect x="759.3333333333333" y="104" width="1" height="64" fill="#701A3D" opacity="0.8"/>
+    <text x="773.3333333333333" y="116" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">FOLLOWERS</text>
+    <text x="773.3333333333333" y="152" font-family="'Cormorant Garamond','Playfair Display','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="34" font-weight="600" fill="#F8F0F3">24</text>
+    <text x="773.3333333333333" y="170" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#F8F0F3" fill-opacity="0.5">on GitHub</text>
+    <text x="40" y="202" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="2" fill="#C77B9B">LANGUAGES · BY CODE SIZE ACROSS PUBLIC NON-FORK REPOS</text>
+    <rect x="40.0" y="214" width="855.1" height="10" rx="2" fill="#E5B5C7"/>
+    <rect x="40" y="244" width="8" height="8" rx="2" fill="#E5B5C7"/>
+    <text x="54" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">Jupyter Notebook 97.4%</text>
+    <rect x="897.1" y="214" width="4.2" height="10" rx="2" fill="#C77B9B"/>
+    <rect x="221.2" y="244" width="8" height="8" rx="2" fill="#C77B9B"/>
+    <text x="235.2" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">JavaScript 0.7%</text>
+    <rect x="903.3" y="214" width="2.6" height="10" rx="2" fill="#A34A72"/>
+    <rect x="356.2" y="244" width="8" height="8" rx="2" fill="#A34A72"/>
+    <text x="370.2" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">CSS 0.5%</text>
+    <rect x="907.9" y="214" width="2.2" height="10" rx="2" fill="#701A3D"/>
+    <rect x="445.0" y="244" width="8" height="8" rx="2" fill="#701A3D"/>
+    <text x="459.0" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">HTML 0.5%</text>
+    <rect x="912.1" y="214" width="2.0" height="10" rx="2" fill="#451126"/>
+    <rect x="540.4" y="244" width="8" height="8" rx="2" fill="#451126"/>
+    <text x="554.4" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">TypeScript 0.5%</text>
+    <rect x="916.1" y="214" width="1.9" height="10" rx="2" fill="#3A1A28"/>
+    <rect x="675.4" y="244" width="8" height="8" rx="2" fill="#3A1A28"/>
+    <text x="689.4" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#F8F0F3" fill-opacity="0.8">Other 0.4%</text>
+    <rect x="0.5" y="0.5" width="959" height="299" rx="18" fill="none" stroke="#701A3D" stroke-opacity="0.8"/>
+    
+  </g>
+</svg>
